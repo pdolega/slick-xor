@@ -1,0 +1,6 @@
+CREATE TABLE slick_xor.xor_test (
+    id BIGINT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    number1 INTEGER NOT NULL,
+    number2 INTEGER NOT NULL,
+    number3 INTEGER
+);
